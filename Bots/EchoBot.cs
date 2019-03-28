@@ -1,13 +1,15 @@
+extern alias BB;
+extern alias BS;
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
 
+using BB::Microsoft.Bot.Builder;
+using BS::Microsoft.Bot.Schema;
 using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
-using Microsoft.Bot.Builder;
-using Microsoft.Bot.Schema;
 
-namespace Microsoft.Bot.Builder.EchoBot
+namespace Microsoft.EchoBot
 {
     public class EchoBot : ActivityHandler
     {

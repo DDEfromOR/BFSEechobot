@@ -1,0 +1,8 @@
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Schema\bin\Debug\netstandard2.0\Microsoft.Bot.Schema.deps.json
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Schema\bin\Debug\netstandard2.0\Microsoft.Bot.Schema.dll
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Schema\bin\Debug\netstandard2.0\Microsoft.Bot.Schema.pdb
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Schema\obj\Debug\netstandard2.0\Microsoft.Bot.Schema.csproj.CoreCompileInputs.cache
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Schema\obj\Debug\netstandard2.0\Microsoft.Bot.Schema.AssemblyInfoInputs.cache
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Schema\obj\Debug\netstandard2.0\Microsoft.Bot.Schema.AssemblyInfo.cs
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Schema\obj\Debug\netstandard2.0\Microsoft.Bot.Schema.dll
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Schema\obj\Debug\netstandard2.0\Microsoft.Bot.Schema.pdb

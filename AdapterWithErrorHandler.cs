@@ -1,12 +1,18 @@
+
+extern alias BBC;
+extern alias BB;
+extern alias SE;
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
 
 using System;
-using Microsoft.Bot.Builder.Integration.AspNet.Core;
-using Microsoft.Bot.Connector.Authentication;
+using BB::Microsoft.Bot.Builder;
+using BBC::Microsoft.Bot.Connector.Authentication;
+using BB::Microsoft.Bot.Builder.Integration;
 using Microsoft.Extensions.Logging;
+using SE::Microsoft.Bot.Builder.Integration.AspNet.Core;
 
-namespace Microsoft.Bot.Builder.EchoBot
+namespace Microsoft.EchoBot
 {
     public class AdapterWithErrorHandler : BotFrameworkHttpAdapter
     {

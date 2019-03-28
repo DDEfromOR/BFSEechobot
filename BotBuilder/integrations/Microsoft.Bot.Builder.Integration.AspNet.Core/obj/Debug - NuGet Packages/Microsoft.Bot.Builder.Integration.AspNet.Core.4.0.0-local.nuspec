@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Bot.Builder.Integration.AspNet.Core</id>
+    <version>4.0.0-local</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/Microsoft/BotBuilder/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Microsoft/botbuilder-dotnet</projectUrl>
+    <iconUrl>http://docs.botframework.com/images/bot_icon.png</iconUrl>
+    <description>This library integrates the Microsoft Bot Builder SDK with ASP.NET Core. It offers idiomatic configuration APIs in addition to providing all the plumbing to direct incoming bot messages to a configured bot.</description>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <tags>bots ai botframework botbuilder</tags>
+    <repository url="https://github.com/Microsoft/botbuilder-dotnet" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Bot.Builder" version="4.0.0-local" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Bot.Configuration" version="4.0.0-local" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Hosting.Abstractions" version="2.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Bot.Protocol" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Bot.Protocol.WebSockets" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Net.Http.Headers" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="11.0.2" exclude="Build,Analyzers" />
+        <dependency id="SourceLink.Create.CommandLine" version="2.8.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\integration\Microsoft.Bot.Builder.Integration.AspNet.Core\bin\Debug - NuGet Packages\netstandard2.0\Microsoft.Bot.Builder.Integration.AspNet.Core.pdb" target="lib\netstandard2.0\Microsoft.Bot.Builder.Integration.AspNet.Core.pdb" />
+    <file src="C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\integration\Microsoft.Bot.Builder.Integration.AspNet.Core\bin\Debug - NuGet Packages\netstandard2.0\Microsoft.Bot.Builder.Integration.AspNet.Core.dll" target="lib\netstandard2.0\Microsoft.Bot.Builder.Integration.AspNet.Core.dll" />
+  </files>
+</package>

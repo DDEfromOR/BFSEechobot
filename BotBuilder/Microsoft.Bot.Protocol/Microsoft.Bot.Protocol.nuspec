@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Bot.Protocol</id>
+    <version>1.0.0-beta</version>
+    <title></title>
+    <authors>Microsoft</authors>
+    <owners></owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>My package description.</description>
+  </metadata>
+  <files>
+    <file src="lib\netstandard2.0\Microsoft.Bot.Protocol.dll" target="lib\netstandard2.0\Microsoft.Bot.Protocol.dll" />
+    <file src="lib\netstandard2.0\Microsoft.Bot.Protocol.WebSockets.dll" target="lib\netstandard2.0\Microsoft.Bot.Protocol.WebSockets.dll" />
+  </files>
+</package>

@@ -1,0 +1,17 @@
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Configuration\bin\Debug\netstandard2.0\Microsoft.Bot.Configuration.deps.json
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Configuration\bin\Debug\netstandard2.0\Microsoft.Bot.Configuration.dll
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Configuration\bin\Debug\netstandard2.0\Microsoft.Bot.Configuration.pdb
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.csprojAssemblyReference.cache
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.AssemblyInfoInputs.cache
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.AssemblyInfo.cs
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.dll
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.pdb
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Configuration\bin\Debug\netstandard2.0\Microsoft.Bot.Configuration.deps.json
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Configuration\bin\Debug\netstandard2.0\Microsoft.Bot.Configuration.dll
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Configuration\bin\Debug\netstandard2.0\Microsoft.Bot.Configuration.pdb
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.AssemblyInfoInputs.cache
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.AssemblyInfo.cs
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.dll
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.pdb

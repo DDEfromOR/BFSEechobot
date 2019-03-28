@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Bot.Connector</id>
+    <version>4.0.0-local</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/Microsoft/BotBuilder/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Microsoft/botbuilder-dotnet</projectUrl>
+    <iconUrl>http://docs.botframework.com/images/bot_icon.png</iconUrl>
+    <description>This library implements C# classes for using the Bot Framework Connector REST API.</description>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <tags>bots ai botframework botbuilder</tags>
+    <repository url="https://github.com/Microsoft/botbuilder-dotnet" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Bot.Schema" version="4.0.0-local" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Clients.ActiveDirectory" version="4.5.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Protocols.OpenIdConnect" version="5.2.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Rest.ClientRuntime" version="2.3.20" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+        <dependency id="SourceLink.Create.CommandLine" version="2.8.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Connector\bin\Debug - NuGet Packages\netstandard2.0\Microsoft.Bot.Connector.pdb" target="lib\netstandard2.0\Microsoft.Bot.Connector.pdb" />
+    <file src="C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Connector\bin\Debug - NuGet Packages\netstandard2.0\Microsoft.Bot.Connector.dll" target="lib\netstandard2.0\Microsoft.Bot.Connector.dll" />
+  </files>
+</package>

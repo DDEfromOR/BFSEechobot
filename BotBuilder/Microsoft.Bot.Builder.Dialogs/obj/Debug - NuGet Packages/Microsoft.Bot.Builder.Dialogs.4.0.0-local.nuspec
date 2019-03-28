@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Bot.Builder.Dialogs</id>
+    <version>4.0.0-local</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/Microsoft/BotBuilder/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Microsoft/botbuilder-dotnet</projectUrl>
+    <iconUrl>http://docs.botframework.com/images/bot_icon.png</iconUrl>
+    <description>This library implements .NET Simple Dialog classes</description>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <tags>bots ai botframework botbuilder</tags>
+    <repository url="https://github.com/Microsoft/botbuilder-dotnet" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Bot.Builder" version="4.0.0-local" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Recognizers.Text.Choice" version="1.1.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Recognizers.Text.DateTime" version="1.1.3" exclude="Build,Analyzers" />
+        <dependency id="SourceLink.Create.CommandLine" version="2.8.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.Dialogs\bin\Debug - NuGet Packages\netstandard2.0\Microsoft.Bot.Builder.Dialogs.pdb" target="lib\netstandard2.0\Microsoft.Bot.Builder.Dialogs.pdb" />
+    <file src="C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.Dialogs\bin\Debug - NuGet Packages\netstandard2.0\Microsoft.Bot.Builder.Dialogs.dll" target="lib\netstandard2.0\Microsoft.Bot.Builder.Dialogs.dll" />
+  </files>
+</package>

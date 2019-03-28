@@ -7,3 +7,4 @@ appsettings.json
 *.bot
 *.cmd
 /Properties/PublishProfiles/devechobotse-Web-Deploy.pubxml
+/.vs/EchoBot/v15/Server/sqlite3

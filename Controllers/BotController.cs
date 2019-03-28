@@ -1,13 +1,15 @@
+extern alias SE;
+extern alias BB;
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
 
 using System.Threading.Tasks;
+using BB::Microsoft.Bot.Builder;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Bot.Builder;
-using Microsoft.Bot.Builder.Integration.AspNet.Core;
-using Microsoft.Bot.Builder.Integration.AspNet.Core.StreamingExtensions;
+using SE::Microsoft.Bot.Builder.Integration.AspNet.Core;
+using SE::Microsoft.Bot.Builder.Integration.AspNet.Core.StreamingExtensions;
 
-namespace Microsoft.Bot.Builder.EchoBot
+namespace Microsoft.EchoBot
 {
     // This ASP Controller is created to handle a request. Dependency Injection will provide the Adapter and IBot
     // implementation at runtime. Multiple different IBot implementations running at different endpoints can be

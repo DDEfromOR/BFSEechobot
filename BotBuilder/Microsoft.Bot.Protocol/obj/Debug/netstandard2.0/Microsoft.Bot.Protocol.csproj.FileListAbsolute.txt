@@ -1,0 +1,17 @@
+C:\Users\daevan\source\repos\Intercom\SDK\Microsoft.Bot.Protocol\obj\Debug\netstandard2.0\Microsoft.Bot.Protocol.csproj.CoreCompileInputs.cache
+C:\Users\daevan\source\repos\Intercom\SDK\Microsoft.Bot.Protocol\obj\Debug\netstandard2.0\Microsoft.Bot.Protocol.AssemblyInfoInputs.cache
+C:\Users\daevan\source\repos\Intercom\SDK\Microsoft.Bot.Protocol\obj\Debug\netstandard2.0\Microsoft.Bot.Protocol.AssemblyInfo.cs
+C:\Users\daevan\source\repos\Intercom\SDK\Microsoft.Bot.Protocol\bin\Debug\netstandard2.0\Microsoft.Bot.Protocol.deps.json
+C:\Users\daevan\source\repos\Intercom\SDK\Microsoft.Bot.Protocol\bin\Debug\netstandard2.0\Microsoft.Bot.Protocol.dll
+C:\Users\daevan\source\repos\Intercom\SDK\Microsoft.Bot.Protocol\bin\Debug\netstandard2.0\Microsoft.Bot.Protocol.pdb
+C:\Users\daevan\source\repos\Intercom\SDK\Microsoft.Bot.Protocol\obj\Debug\netstandard2.0\Microsoft.Bot.Protocol.dll
+C:\Users\daevan\source\repos\Intercom\SDK\Microsoft.Bot.Protocol\obj\Debug\netstandard2.0\Microsoft.Bot.Protocol.pdb
+C:\Users\daevan\source\repos\Intercom\SDK\Microsoft.Bot.Protocol\obj\Debug\netstandard2.0\Microsoft.Bot.Protocol.csprojAssemblyReference.cache
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Protocol\bin\Debug\netstandard2.0\Microsoft.Bot.Protocol.deps.json
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Protocol\bin\Debug\netstandard2.0\Microsoft.Bot.Protocol.dll
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Protocol\bin\Debug\netstandard2.0\Microsoft.Bot.Protocol.pdb
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Protocol\obj\Debug\netstandard2.0\Microsoft.Bot.Protocol.csproj.CoreCompileInputs.cache
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Protocol\obj\Debug\netstandard2.0\Microsoft.Bot.Protocol.AssemblyInfoInputs.cache
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Protocol\obj\Debug\netstandard2.0\Microsoft.Bot.Protocol.AssemblyInfo.cs
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Protocol\obj\Debug\netstandard2.0\Microsoft.Bot.Protocol.dll
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Protocol\obj\Debug\netstandard2.0\Microsoft.Bot.Protocol.pdb

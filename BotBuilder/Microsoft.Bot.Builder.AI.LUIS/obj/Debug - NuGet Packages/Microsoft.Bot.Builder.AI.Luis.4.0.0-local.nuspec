@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Bot.Builder.AI.Luis</id>
+    <version>4.0.0-local</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/Microsoft/BotBuilder/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Microsoft/botbuilder-dotnet</projectUrl>
+    <iconUrl>http://docs.botframework.com/images/bot_icon.png</iconUrl>
+    <description>LUIS Middleware and Recognizers for the Microsoft Bot Builder SDK</description>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <tags>bots ai botframework botbuilder</tags>
+    <repository url="https://github.com/Microsoft/botbuilder-dotnet" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Bot.Builder" version="4.0.0-local" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Bot.Configuration" version="4.0.0-local" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Azure.CognitiveServices.Language.LUIS.Runtime" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+        <dependency id="SourceLink.Create.CommandLine" version="2.8.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.AI.LUIS\bin\Debug - NuGet Packages\netstandard2.0\Microsoft.Bot.Builder.AI.Luis.pdb" target="lib\netstandard2.0\Microsoft.Bot.Builder.AI.Luis.pdb" />
+    <file src="C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.AI.LUIS\bin\Debug - NuGet Packages\netstandard2.0\Microsoft.Bot.Builder.AI.Luis.dll" target="lib\netstandard2.0\Microsoft.Bot.Builder.AI.Luis.dll" />
+  </files>
+</package>

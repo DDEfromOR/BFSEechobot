@@ -1,0 +1,16 @@
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\bin\Debug\netstandard2.0\Microsoft.Bot.Builder.ApplicationInsights.deps.json
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\bin\Debug\netstandard2.0\Microsoft.Bot.Builder.ApplicationInsights.dll
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\bin\Debug\netstandard2.0\Microsoft.Bot.Builder.ApplicationInsights.pdb
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\bin\Debug\netstandard2.0\Microsoft.Bot.Builder.dll
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\bin\Debug\netstandard2.0\Microsoft.Bot.Connector.dll
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\bin\Debug\netstandard2.0\Microsoft.Bot.Schema.dll
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\bin\Debug\netstandard2.0\Microsoft.Bot.Builder.pdb
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\bin\Debug\netstandard2.0\Microsoft.Bot.Connector.pdb
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\bin\Debug\netstandard2.0\Microsoft.Bot.Schema.pdb
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.ApplicationInsights.csprojAssemblyReference.cache
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.ApplicationInsights.csproj.CoreCompileInputs.cache
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.ApplicationInsights.AssemblyInfoInputs.cache
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.ApplicationInsights.AssemblyInfo.cs
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.ApplicationInsights.csproj.CopyComplete
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.ApplicationInsights.dll
+C:\Users\daevan\source\repos\bleh\botbuilder-dotnet\libraries\Microsoft.Bot.Builder.ApplicationInsights\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.ApplicationInsights.pdb
