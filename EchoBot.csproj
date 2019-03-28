@@ -7,7 +7,24 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore" Version="2.1.6" />
     <PackageReference Include="Microsoft.AspNetCore.All" />
-    <PackageReference Include="Microsoft.Bot.Builder.Integration.AspNet.Core" Version="4.3.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Bot.Builder">
+      <HintPath>..\botbuilder-dotnet\libraries\integration\Microsoft.Bot.Builder.Integration.AspNet.Core\bin\Debug - NuGet Packages\netstandard2.0\Microsoft.Bot.Builder.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bot.Builder.Integration.AspNet.Core">
+      <HintPath>..\botbuilder-dotnet\libraries\integration\Microsoft.Bot.Builder.Integration.AspNet.Core\bin\Debug - NuGet Packages\netstandard2.0\Microsoft.Bot.Builder.Integration.AspNet.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bot.Configuration">
+      <HintPath>..\botbuilder-dotnet\libraries\integration\Microsoft.Bot.Builder.Integration.AspNet.Core\bin\Debug - NuGet Packages\netstandard2.0\Microsoft.Bot.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bot.Connector">
+      <HintPath>..\botbuilder-dotnet\libraries\integration\Microsoft.Bot.Builder.Integration.AspNet.Core\bin\Debug - NuGet Packages\netstandard2.0\Microsoft.Bot.Connector.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bot.Schema">
+      <HintPath>..\botbuilder-dotnet\libraries\integration\Microsoft.Bot.Builder.Integration.AspNet.Core\bin\Debug - NuGet Packages\netstandard2.0\Microsoft.Bot.Schema.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
   <Import Project="PostDeployScripts\IncludeSources.targets" Condition="Exists('PostDeployScripts\IncludeSources.targets')" />
