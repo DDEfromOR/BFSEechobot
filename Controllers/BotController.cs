@@ -1,5 +1,6 @@
-extern alias SE;
+
 extern alias BB;
+extern alias SE;
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
 

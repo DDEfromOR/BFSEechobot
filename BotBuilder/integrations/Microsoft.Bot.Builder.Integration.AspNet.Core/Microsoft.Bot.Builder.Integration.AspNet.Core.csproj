@@ -35,7 +35,7 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\..\Microsoft.Bot.Builder\Microsoft.Bot.Builder.csproj" />
-		<ProjectReference Include="..\..\Microsoft.Bot.Configuration\Microsoft.Bot.Configuration.csproj" />
 		<ProjectReference Include="..\..\Microsoft.Bot.Protocol.WebSockets\Microsoft.Bot.Protocol.WebSockets.csproj" />
+		<ProjectReference Include="..\..\Microsoft.Bot.Protocol\Microsoft.Bot.Protocol.csproj" />
 	</ItemGroup>  
 </Project>

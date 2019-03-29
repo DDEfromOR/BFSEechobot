@@ -12,7 +12,7 @@
           "AsyncUsageAnalyzers": "1.0.0-alpha003",
           "Microsoft.AspNetCore.Hosting.Abstractions": "2.0.1",
           "Microsoft.Bot.Builder": "4.0.0-local",
-          "Microsoft.Bot.Configuration": "4.0.0-local",
+          "Microsoft.Bot.Protocol": "1.0.0",
           "Microsoft.Bot.Protocol.WebSockets": "1.0.0",
           "Microsoft.Extensions.Configuration": "2.1.1",
           "Microsoft.Extensions.Logging": "2.1.1",

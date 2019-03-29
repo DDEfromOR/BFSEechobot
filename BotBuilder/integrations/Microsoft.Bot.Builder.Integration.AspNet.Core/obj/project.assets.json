@@ -5947,7 +5947,7 @@
       "AsyncUsageAnalyzers >= 1.0.0-alpha003",
       "Microsoft.AspNetCore.Hosting.Abstractions >= 2.0.1",
       "Microsoft.Bot.Builder >= 4.0.0-local",
-      "Microsoft.Bot.Configuration >= 4.0.0-local",
+      "Microsoft.Bot.Protocol >= 1.0.0",
       "Microsoft.Bot.Protocol.WebSockets >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 2.1.1",
       "Microsoft.Extensions.Logging >= 2.1.1",
@@ -5993,11 +5993,11 @@
             "C:\\Users\\daevan\\source\\repos\\devEchoBotSE-src\\BotBuilder\\Microsoft.Bot.Builder\\Microsoft.Bot.Builder.csproj": {
               "projectPath": "C:\\Users\\daevan\\source\\repos\\devEchoBotSE-src\\BotBuilder\\Microsoft.Bot.Builder\\Microsoft.Bot.Builder.csproj"
             },
-            "C:\\Users\\daevan\\source\\repos\\devEchoBotSE-src\\BotBuilder\\Microsoft.Bot.Configuration\\Microsoft.Bot.Configuration.csproj": {
-              "projectPath": "C:\\Users\\daevan\\source\\repos\\devEchoBotSE-src\\BotBuilder\\Microsoft.Bot.Configuration\\Microsoft.Bot.Configuration.csproj"
-            },
             "C:\\Users\\daevan\\source\\repos\\devEchoBotSE-src\\BotBuilder\\Microsoft.Bot.Protocol.WebSockets\\Microsoft.Bot.Protocol.WebSockets.csproj": {
               "projectPath": "C:\\Users\\daevan\\source\\repos\\devEchoBotSE-src\\BotBuilder\\Microsoft.Bot.Protocol.WebSockets\\Microsoft.Bot.Protocol.WebSockets.csproj"
+            },
+            "C:\\Users\\daevan\\source\\repos\\devEchoBotSE-src\\BotBuilder\\Microsoft.Bot.Protocol\\Microsoft.Bot.Protocol.csproj": {
+              "projectPath": "C:\\Users\\daevan\\source\\repos\\devEchoBotSE-src\\BotBuilder\\Microsoft.Bot.Protocol\\Microsoft.Bot.Protocol.csproj"
             }
           }
         }

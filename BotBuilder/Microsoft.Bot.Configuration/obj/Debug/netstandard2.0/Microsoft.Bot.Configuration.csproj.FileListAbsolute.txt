@@ -15,3 +15,4 @@ C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Configura
 C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.AssemblyInfo.cs
 C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.dll
 C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.pdb
+C:\Users\daevan\source\repos\devEchoBotSE-src\BotBuilder\Microsoft.Bot.Configuration\obj\Debug\netstandard2.0\Microsoft.Bot.Configuration.csprojAssemblyReference.cache
